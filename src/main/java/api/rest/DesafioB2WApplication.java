@@ -8,5 +8,6 @@ public class DesafioB2WApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DesafioB2WApplication.class, args);
+		System.out.println("Meu projeto");
 	}
 }
